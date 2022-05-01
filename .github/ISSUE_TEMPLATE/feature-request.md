@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Describe the new sgguested feature.
+about: Describe the new feature suggestion.
 labels: enhancement
 ---
 
